@@ -1,0 +1,31 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://obscurefreeman.netlify.app",
+    "email": "1093048022@qq.com",
+    "enabledProxy": "direct",
+    "netlifyAccessToken": "YCncDAXLygwQ37Jf4zME_S_-wUMV5aFpWoDgq1_RjGc",
+    "netlifySiteId": "4c6de225-9ab7-4da6-826c-5158dced1439",
+    "platform": "netlify",
+    "privateKey": "",
+    "repository": "obscurefreeman.github.io",
+    "token": "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",
+    "username": "obscurefreeman"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}

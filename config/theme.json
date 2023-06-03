@@ -1,0 +1,39 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "：-）",
+    "siteName": "晦涩弗里曼",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "notes"
+  },
+  "customConfig": {
+    "contentBgColor": "#212529",
+    "contentMaxWidth": "1200px",
+    "customCss": "",
+    "facebook": "",
+    "ga": "",
+    "github": "",
+    "linkColor": "#e67700",
+    "linkHoverColor": "#006CFF",
+    "metaDescription": "",
+    "openPostToc": true,
+    "pageBgColor": "#343a40",
+    "siteFont": "-apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif",
+    "textColor": "#f8f9fa",
+    "textSize": "16px",
+    "titleAlign": "center",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}
